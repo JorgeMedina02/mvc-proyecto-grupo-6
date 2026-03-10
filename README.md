@@ -4,7 +4,7 @@ Sistema de Alerta Temprana para Orientación Universitaria (EILU 2019) - Trabajo
 # Sistema de Alerta Temprana para Orientación Universitaria 
 
 ## Descripción del Proyecto (Pregunta D)
-[cite_start]Desarrollo de un modelo predictivo para identificar qué alumnos de grado tienen alto riesgo de acabar en empleos precarios (jornada parcial o sin empleo)[cite: 124, 125].
+Desarrollo de un modelo predictivo para identificar qué alumnos de grado tienen alto riesgo de acabar en empleos precarios (jornada parcial o sin empleo).
 
 ## Principales Hallazgos 
 *(Se completará en la Fase 4)*
