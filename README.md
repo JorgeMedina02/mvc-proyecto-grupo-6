@@ -16,6 +16,6 @@ Desarrollo de un modelo predictivo para identificar qué alumnos de grado tienen
 
 ## Autores - Grupo 6
 - Jorge Medina López
-- Helena Molina Garcia
+- Helena Molina García
 - Alba Buchó Rosco
-- Mireia Roset Perez
+- Mireia Roset Pérez
