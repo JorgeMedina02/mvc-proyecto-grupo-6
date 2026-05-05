@@ -1,0 +1,36 @@
+# Sistema de Alerta Temprana para Orientación Universitaria
+# TSDS 2025/2026 · Grupo 6 · ESIC University
+#
+# Instalar con: pip install -r requirements.txt
+# Entorno recomendado: Python 3.10+
+ 
+# ── Manipulación de datos ──────────────────────────────────────
+pandas==2.2.3
+numpy==2.1.3
+openpyxl>=3.1.0          # Lectura del diccionario de variables (.xlsx)
+ 
+# ── Visualización ─────────────────────────────────────────────
+matplotlib==3.10.0
+seaborn>=0.13.0
+ 
+# ── Machine Learning: pipeline y evaluación ───────────────────
+scikit-learn==1.6.1
+ 
+# ── Gradient Boosting ─────────────────────────────────────────
+lightgbm==4.6.0
+xgboost==3.2.0
+ 
+# ── Interpretabilidad ─────────────────────────────────────────
+shap==0.51.0
+ 
+# ── Inferencia estadística ────────────────────────────────────
+statsmodels==0.14.4
+ 
+# ── Entorno de notebooks ──────────────────────────────────────
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipython>=8.0.0
+ 
+# ── Utilidades ────────────────────────────────────────────────
+scipy>=1.11.0             # chi2_contingency para V de Cramér
+tqdm>=4.65.0              # Barras de progreso opcionales
