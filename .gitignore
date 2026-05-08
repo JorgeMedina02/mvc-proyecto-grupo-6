@@ -210,6 +210,10 @@ __marimo__/
 # Ignoraremos los datasets del INE para no colapsar el repo
 data/*.csv
 data/*.xlsx
+# Ignorar todo dentro de EILU_GRADUADOS
+data/EILU_GRADUADOS/**
+# Excepto processed_data.csv que lo necesitamos
+!data/EILU_GRADUADOS/processed_data.csv
 
 # Archivos de datos de gran tamaño en formatos alternativos
 *.sas7bdat
